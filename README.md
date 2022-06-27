@@ -5,17 +5,13 @@
   
 
 ## 📌 Contact  
-#
+
 ```sh
 email: juhyeongee@gmail.com
 kakaoTalk: jjuddog00788
 instagram: _ju_hyeong___ (x)
 blog: 내뇌의 시각화 https://inmybrain-programming.tistory.com/
 ```
-  
-#
-    
-#
 
 * * * 
 
@@ -25,6 +21,9 @@ blog: 내뇌의 시각화 https://inmybrain-programming.tistory.com/
 ![N|Javascript](https://img.shields.io/badge/VScode-007ACC?style=for-the-badge&logo=VisualStudioCode&logoColor=white)  ![N|Javascript](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=Firebase&logoColor=white) ![N|Javascript](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=black)
 ### _Cowork tools_
 ![N|Javascript](https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=Github&logoColor=white)  ![N|Javascript](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white) ![N|Javascript](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=Slack&logoColor=blue) ![N|Javascript](https://img.shields.io/badge/Figma-ED1A3A?style=for-the-badge&logo=Figma&logoColor=white)
+
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=juhyeongee)](https://github.com/anuraghazra/github-readme-stats)
 
 ### 🎓 _education_
 
