@@ -1,9 +1,9 @@
 ![header](https://capsule-render.vercel.app/api?type=Rect&color=auto&height=200&section=header&text=Welcome%20to%20juhyeong.dev.web3&fontSize=40)
 
 
-### Juhyeong
+### Mobile web3 app engineer, Juhyeong
 - Web3 Mobile App developer
-- Make Web3 chat App, '3 seconds club' 
+- Make Web3 chat App, '3 seconds club' with Flutter
 - Download available, 'App store' & 'Google Play Store'
 
 | Project Name | Store  | Download Link
@@ -14,7 +14,7 @@ Cero | App store | https://apps.apple.com/kr/app/%EC%83%88%EB%A1%9C-%EB%8B%B9%EC
 | Telepathy | Coming Soon..  | 
 
 
-### 💼 _careers_
+### 💼 _Careers_
 
 '22.10 ~ : `Baobab Partners, Generation Team, 3seconds club app developer `
   
@@ -25,7 +25,7 @@ Cero | App store | https://apps.apple.com/kr/app/%EC%83%88%EB%A1%9C-%EB%8B%B9%EC
 '18.07 ~ '20.02: `Scatterlab, 'Science of love' contents creator, Marketer`  
   
 
-### 🎓 _education_
+### 🎓 _Education_
 
 Yonsei Univ. Psychology, Bachelor's degree
 
@@ -66,7 +66,7 @@ blog: 내뇌의 시각화 https://inmybrain-programming.tistory.com/
 - 이별 후, 다시 나를 찾아가기 위한 매일의 할 일들. 
 - React-Native, Firebase, TypeScript
 
-###  _others_
+###  _Others_
 - Create Youtube Contents with   ![N|Javascript](https://img.shields.io/badge/Final--Cut--Pro-f0f0f0?style=for-the-badge&logo=&logoColor=silver)
 - Made Total about 30,000,000 Views from Youtube, FB, Instagram.
 - Create Mobile Game 'Color Wheel' with ![N|Javascript](https://img.shields.io/badge/UnrealEngine-0E1128?style=for-the-badge&logo=UnrealEngine&logoColor=silver) 
