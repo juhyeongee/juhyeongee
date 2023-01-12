@@ -30,7 +30,7 @@ Cero | App store | https://apps.apple.com/kr/app/%EC%83%88%EB%A1%9C-%EB%8B%B9%EC
 Yonsei Univ. Psychology, Bachelor's degree
 
 
-### 📌 _Contact_  
+### 📱 _Contact_  
 
 ```sh
 phone: +82 10-5361-8962
@@ -40,7 +40,7 @@ instagram: _ju_hyeong___
 blog: 내뇌의 시각화 https://inmybrain-programming.tistory.com/
 ```
 
-### 📌 _Stack_
+### 🛠 _Stack_
 - _MainStack_   
 ![N|Javascript](https://img.shields.io/badge/flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white) ![N|Javascript](https://img.shields.io/badge/dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 * Using web3dart packages
@@ -55,16 +55,6 @@ blog: 내뇌의 시각화 https://inmybrain-programming.tistory.com/
 - _Cowork tools_  
 ![N|Javascript](https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=Github&logoColor=white)  ![N|Javascript](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white)  ![N|Javascript](https://img.shields.io/badge/Figma-ED1A3A?style=for-the-badge&logo=Figma&logoColor=white) ![N|Javascript](https://img.shields.io/badge/VScode-007ACC?style=for-the-badge&logo=VisualStudioCode&logoColor=white) ![N|Javascript](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=black)
 
-
-
-## 📌 Projects 
-
-
-### 새로(CERO) 🌱 
-> 이별 이후, 이제는 '새로' 시작할 시간입니다. 
-
-- 이별 후, 다시 나를 찾아가기 위한 매일의 할 일들. 
-- React-Native, Firebase, TypeScript
 
 ###  _Others_
 - Create Youtube Contents with   ![N|Javascript](https://img.shields.io/badge/Final--Cut--Pro-f0f0f0?style=for-the-badge&logo=&logoColor=silver)
