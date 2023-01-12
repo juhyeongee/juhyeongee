@@ -39,10 +39,10 @@ blog: 내뇌의 시각화 https://inmybrain-programming.tistory.com/
 ### 📌 _Stack_
 - _MainStack_
 ![N|Javascript](https://img.shields.io/badge/flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white) ![N|Javascript](https://img.shields.io/badge/dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
--- Using web3dart packages
--- Contact with Ethereum MainNet
--- Made Native Token's transaction for Blockchain Chat
--- Making Txhash for token transfer, OTC escrow trade, airdrops etc.
+- Using web3dart packages
+- Contact with Ethereum MainNet
+- Made Native Token's transaction for Blockchain Chat
+- Making Txhash for token transfer, OTC escrow trade, airdrops etc.
 
 - _SideStack_
 ![N|Javascript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typeScript&logoColor=white)       ![N|Javascript](https://img.shields.io/badge/React--Native-61DAFB?style=for-the-badge&logo=react&logoColor=white) 
