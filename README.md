@@ -2,9 +2,9 @@
 
 
 ### Juhyeong
--- Web3 Mobile App developer
--- Make Web3 chat App, '3 seconds club' 
--- Download available, 'App store' & 'Google Play Store'
+- Web3 Mobile App developer
+- Make Web3 chat App, '3 seconds club' 
+- Download available, 'App store' & 'Google Play Store'
 
 | Project Name | Store  | Download Link
 | ------ | ------ | --- 
