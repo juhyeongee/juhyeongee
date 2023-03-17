@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=Rect&color=auto&height=200&section=header&text=Welcome%20to%20juhyeong.dev.web3&fontSize=40)
+![header](https://capsule-render.vercel.app/api?type=Rect&color=auto&height=200&section=header&text=Welcome%20to%20juhyeong.dev&fontSize=40)
 
 
 ### Mobile web3 app engineer, Juhyeong
